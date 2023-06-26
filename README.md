@@ -13,7 +13,3 @@ This is a simple Balance Sheet created using HTML and CSS. It displays the finan
 <img src="https://i.imgur.com/FoHN86d.png" alt="Balance Sheet" width="30%">
 
 Feel free to customize the code and styles according to your needs.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
